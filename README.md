@@ -48,7 +48,7 @@ The `init_db` function in the Flask backend will automatically create the necess
 ```bash
 # Navigate to the backend folder and run the app to initialize the database
 cd backend
-python app.py
+python main.py
 ```
 
 This will automatically create the `transactions.db` SQLite database and the necessary tables.
